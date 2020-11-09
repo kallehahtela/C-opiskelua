@@ -1,0 +1,10 @@
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\bin\Debug\MikäTahansaNimi.exe.config
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\bin\Debug\MikäTahansaNimi.exe
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\bin\Debug\MikäTahansaNimi.pdb
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.csprojAssemblyReference.cache
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.Properties.Resources.resources
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.csproj.GenerateResource.cache
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.csproj.CoreCompileInputs.cache
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.exe
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.pdb
+C:\Users\kalle.hahtela\Documents\repositiot\C-opiskelua\MikäTahansaNimi\MikäTahansaNimi\obj\Debug\MikäTahansaNimi.TekstiLaatikko.resources
